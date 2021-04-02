@@ -13,5 +13,8 @@ The code is a bit on the messy side, because I programmed it in only a few days.
 ## Compatibility
 Confirmed to work on a real US Model 2 Sega CD. Should work on any NTSC console, but not PAL, due to timing differences (video runs slower, and desyncs from the audio). I would have to rewrite quite a bit of this to get it to work properly in 50 Hz, and I can't really be arsed to do so. Emulator-wise, works fine on Kega Fusion and Genesis Plus GX, but again, not in PAL mode.
 
+## Special Thanks
+vladikcomper - Comper compression/decompressor
+
 ## Download
 [Here](https://drive.google.com/file/d/1Y9n5cf8HIEDJCbQ53L_YIvEsvTowk8v_/view?usp=sharing)
