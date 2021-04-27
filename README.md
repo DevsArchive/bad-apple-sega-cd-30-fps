@@ -16,5 +16,9 @@ Confirmed to work on a real US Model 2 Sega CD. Should work on any NTSC console,
 ## Special Thanks
 vladikcomper - Comper compression/decompressor
 
+## Videos
+[Normal](https://www.youtube.com/watch?v=9xc38bKkTMY)
+[No Palette Cycling](https://www.youtube.com/watch?v=NuqfFsgzKOw)
+
 ## Download
 [Here](https://drive.google.com/file/d/1Y9n5cf8HIEDJCbQ53L_YIvEsvTowk8v_/view?usp=sharing)
