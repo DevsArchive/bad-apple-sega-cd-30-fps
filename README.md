@@ -18,6 +18,7 @@ vladikcomper - Comper compression/decompressor
 
 ## Videos
 [Normal](https://www.youtube.com/watch?v=9xc38bKkTMY)
+
 [No Palette Cycling](https://www.youtube.com/watch?v=NuqfFsgzKOw)
 
 ## Download
